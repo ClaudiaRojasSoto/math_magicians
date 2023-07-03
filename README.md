@@ -10,7 +10,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Math\_Magicians\] ](#-math_magicians-)
+- [📖 Math\_Magicians ](#-math_magicians-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -28,7 +28,7 @@
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
-# 📖 [Math_Magicians] <a name="about-project"></a>
+# 📖 Math_Magicians <a name="about-project"></a>
 
 > This project consists of building a leaderboard website that displays scores submitted by different players. The website also allows users to submit their own scores. All data is preserved through the use of an external Leaderboard API service.s.
 
@@ -172,6 +172,6 @@
 
 ## 📝 License <a name="license"></a>
 
-> This project is [MIT](https://github.com/ClaudiaRojasSoto/Math-Magicians/blob/dev/MIT.md).
+> This project is [MIT](https://github.com/ClaudiaRojasSoto/Math_Magicians/blob/dev/MIT.md).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
