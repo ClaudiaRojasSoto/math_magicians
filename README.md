@@ -30,7 +30,7 @@
 
 # 📖 Math_Magicians <a name="about-project"></a>
 
-> This project consists of building a leaderboard website that displays scores submitted by different players. The website also allows users to submit their own scores. All data is preserved through the use of an external Leaderboard API service.s.
+> "Math_Magicians" is a project that allows me to showcase my web development skills and expertise in React and UI/UX design. With a focus on engaging interfaces, I demonstrate proficiency in various aspects including wireframing, component creation, event handling, and API integration. The project embodies intuitive design principles and seamless functionality, delivering a captivating user experience.
 
 ## 🛠 Built With <a name="built-with"></a>
 
