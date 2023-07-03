@@ -1,70 +1,177 @@
-# Getting Started with Create React App
+<a name="readme-top"></a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
+  <br/>
 
-## Available Scripts
+  <h3><b>Math_Magicians</b></h3>
 
-In the project directory, you can run:
+</div>
 
-### `npm start`
+# 📗 Table of Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 \[Math\_Magicians\] ](#-math_magicians-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Project Structure](#project-structure)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# 📖 [Math_Magicians] <a name="about-project"></a>
 
-### `npm test`
+> This project consists of building a leaderboard website that displays scores submitted by different players. The website also allows users to submit their own scores. All data is preserved through the use of an external Leaderboard API service.s.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🛠 Built With <a name="built-with"></a>
 
-### `npm run build`
+### Tech Stack <a name="tech-stack"></a>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+> HTML
+> JS (Javascript)
+> CSS
+> React
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="#">HTML</a></li>
+  </ul>
+</details>
 
-### `npm run eject`
+<details>
+  <summary>Server</summary>
+  <ul>
+  </ul>
+</details>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Key Features <a name="key-features"></a>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+-   **[Webpack Configuration]**
+-   **[HTML Generation]**
+-   **[CSS Styling]**
+-   **[Development Server]**
+-   **[Code Quality]**
+-   **[Modular Structure]**
+-   **[ES6 Syntax]**
+-   **[JavaScript Functionality]**
+-   **[Gitflow]**
+-   **[Send and receive data from API]**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🚀 Live Demo <a name="live-demo"></a>
 
-## Learn More
+> You can see a Demo here: [Demo](https://claudiarojassoto.github.io/Math_Magicians/dist/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 💻 Getting Started <a name="getting-started"></a>
 
-### Code Splitting
+> To get a local copy up and running, follow these steps.
+> This project requires Node.js and npm installed on your machine.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+-Node.js
+-npm
 
-### Analyzing the Bundle Size
+> -Clone this repository to your local machine using:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+>  git clone https://github.com/ClaudiaRojasSoto/Math_Magicians.git
 
-### Making a Progressive Web App
+> -Navigate to the project folder:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+> cd Leaderboard
 
-### Advanced Configuration
+> -Install the project dependencies:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+> npm install
 
-### Deployment
+> o start the development server, run the following command:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+> npm start
 
-### `npm run build` fails to minify
+### Project Structure
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+> The project follows the following folder and file structure:
+
+> /src: Contains the source files of the application.
+> /src/index.js: Main entry point of the JavaScript application.
+> /src/style.css: CSS file for the application styles.
+> /src/index.html: Base HTML file of the application.
+> /dist: Contains the generated production files.
+> webpack.config.js: Webpack configuration file.
+
+### Setup
+
+> Clone this repository to your desired folder: https://github.com/ClaudiaRojasSoto/Math_Magicians.git
+
+### Install
+
+> Install this project with: install WebLint and ESLint
+
+### Usage
+
+> To run the project, execute the following command: just need a web Browser
+
+### Run tests
+
+> To run tests, run the following command: you just need a simple web browser to run this project for a test
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Claudia Rojas**
+
+-   GitHub: [@githubhandle](https://github.com/ClaudiaRojasSoto)
+-   LinkedIn: [LinkedIn](https://www.linkedin.com/in/claudia-soto-260504208/)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+
+-   **[User Authentication]** 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🤝 Contributing <a name="contributing"></a>
+
+> Contributions, issues, and feature requests are welcome!
+
+> Feel free to check the [issues page](https://github.com/ClaudiaRojasSoto/Math_Magicians/issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ⭐️ Show your support <a name="support"></a>
+
+> If you like this project show support by following this account
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> -   Microverse for providing the opportunity to learn Git and GitHub in a collaborative environment.
+
+> -   GitHub Docs for providing a wealth of information on Git and GitHub.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+> This project is [MIT](https://github.com/ClaudiaRojasSoto/Math-Magicians/blob/dev/MIT.md).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
