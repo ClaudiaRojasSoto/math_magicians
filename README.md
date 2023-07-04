@@ -105,13 +105,13 @@
 
 > -Navigate to the project folder:
 
-> cd Leaderboard
+> cd math_magicians
 
 > -Install the project dependencies:
 
 > npm install
 
-> o start the development server, run the following command:
+> To start the development server, run the following command:
 
 > npm start
 
@@ -119,12 +119,17 @@
 
 > The project follows the following folder and file structure:
 
-> /src: Contains the source files of the application.
-> /src/index.js: Main entry point of the JavaScript application.
-> /src/style.css: CSS file for the application styles.
-> /src/index.html: Base HTML file of the application.
-> /dist: Contains the generated production files.
-> webpack.config.js: Webpack configuration file.
+- /src: Contains the source files of the application.
+- /src/index.js: Main entry point of the JavaScript application.
+- /src/App.js: Top-level component of the application.
+- /src/components: Directory for React components.
+- /src/components/Calculator.js: React component for the calculator.
+- /src/components/Display.js: React component for the display.
+- /src/components/Button.js: React component for the calculator buttons.
+- /src/style.css: CSS file for the application styles.
+- /public: Contains the public files and assets of the application.
+- /public/index.html: Base HTML file of the application.
+- /build: Contains the generated production files.
 
 ### Setup
 
