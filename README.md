@@ -3,14 +3,14 @@
 <div align="center">
   <br/>
 
-  <h1><b>Math_Magician</b></h1>
+  <h1><b>math_magicians</b></h1>
 
 </div>
 
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Math\_Magicians ](#-math_magicians-)
+- [📖 math\_magicians ](#-math_magicians-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -28,9 +28,9 @@
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
-# 📖 Math_Magicians <a name="about-project"></a>
+# 📖 math_magicians <a name="about-project"></a>
 
-> "Math_Magician" is a project that allows me to showcase my web development skills and expertise in React and UI/UX design. With a focus on engaging interfaces, I demonstrate proficiency in various aspects including wireframing, component creation, event handling, and API integration. The project embodies intuitive design principles and seamless functionality, delivering a captivating user experience.
+> "math_magicians" is a project that allows me to showcase my web development skills and expertise in React and UI/UX design. With a focus on engaging interfaces, I demonstrate proficiency in various aspects including wireframing, component creation, event handling, and API integration. The project embodies intuitive design principles and seamless functionality, delivering a captivating user experience.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -87,7 +87,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> You can see a Demo here: [Demo](https://claudiarojassoto.github.io/Math_Magician/dist/)
+> You can see a Demo here: [Demo](https://claudiarojassoto.github.io/math_magicians/build/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -101,7 +101,7 @@
 
 > -Clone this repository to your local machine using:
 
->  git clone https://github.com/ClaudiaRojasSoto/Math_Magicians.git
+>  git clone https://github.com/ClaudiaRojasSoto/math_magicians.git
 
 > -Navigate to the project folder:
 
@@ -128,7 +128,7 @@
 
 ### Setup
 
-> Clone this repository to your desired folder: https://github.com/ClaudiaRojasSoto/Math_Magician.git
+> Clone this repository to your desired folder: https://github.com/ClaudiaRojasSoto/math_magicians.git
 
 ### Install
 
@@ -165,7 +165,7 @@
 
 > Contributions, issues, and feature requests are welcome!
 
-> Feel free to check the [issues page](https://github.com/ClaudiaRojasSoto/Math_Magician/issues).
+> Feel free to check the [issues page](https://github.com/ClaudiaRojasSoto/math_magicians/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -189,6 +189,6 @@
 
 ## 📝 License <a name="license"></a>
 
-> This project is [MIT](https://github.com/ClaudiaRojasSoto/Math_Magician/blob/develop/MIT.md).
+> This project is [MIT](https://github.com/ClaudiaRojasSoto/math_magicians/blob/develop/MIT.md).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
