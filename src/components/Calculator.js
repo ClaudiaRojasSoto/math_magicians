@@ -1,15 +1,20 @@
-import React from 'react';
+import React, { useState } from 'react';
 import PropTypes from 'prop-types';
 import './calculator.css';
 
-export function Display() {
-  return <div className="display">0</div>;
+export function Display(props) {
+  const { value } = props;
+  return <div className="display">{value}</div>;
 }
 
+Display.propTypes = {
+  value: PropTypes.string.isRequired,
+};
+
 export function Button(props) {
-  const { value, type, onClick } = props;
+  const { value, type } = props;
   return (
-    <button className={`button ${type}`} type="button" onClick={onClick}>
+    <button className={`button ${type}`} type="button">
       {value}
     </button>
   );
@@ -18,18 +23,18 @@ export function Button(props) {
 Button.propTypes = {
   value: PropTypes.string.isRequired,
   type: PropTypes.string,
-  onClick: PropTypes.func,
 };
 
 Button.defaultProps = {
   type: '',
-  onClick: () => {},
 };
 
 function Calculator() {
+  const [displayValue] = useState('0');
+
   return (
     <div className="calculator">
-      <Display />
+      <Display value={displayValue} />
       <div className="row">
         <Button value="AC" type="clear" />
         <Button value="+/-" />
