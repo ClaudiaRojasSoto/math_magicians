@@ -124,9 +124,9 @@
 - /src/App.js: Top-level component of the application.
 - /src/components: Directory for React components.
 - /src/components/Calculator.js: React component for the calculator.
-- /src/components/Display.js: React component for the display.
-- /src/components/Button.js: React component for the calculator buttons.
-- /src/style.css: CSS file for the application styles.
+- /src/calculator.css: CSS file for the Calculator.js styles.
+- /src/App.css: CSS file for the App.js styles.
+- /src/index.css: CSS file for the index.js styles.
 - /public: Contains the public files and assets of the application.
 - /public/index.html: Base HTML file of the application.
 - /build: Contains the generated production files.
