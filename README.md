@@ -87,7 +87,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> You can see a Demo here: [Demo](https://claudiarojassoto.github.io/math_magicians/build/)
+> You can see a Demo here: (Soon)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
