@@ -61,7 +61,7 @@ function Calculator() {
       </div>
       <div className="row">
         <Button value="0" type="zero" />
-        <Button value="+" />
+        <Button value="." />
         <Button value="=" type="operator" />
       </div>
     </div>
