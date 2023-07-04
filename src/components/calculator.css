@@ -1,5 +1,5 @@
 .calculator {
-  width: 300px;
+  width: 400px;
   background-color: #f0f0f0;
   padding: 0;
   border-radius: 10px;
@@ -21,8 +21,8 @@
 
 .button {
   background-color: #ddd;
-  border: none;
-  font-size: 20px;
+  border: 1px solid #858694;
+  font-size: 12px;
   padding: 16px;
   cursor: pointer;
   width: calc(25%);
@@ -32,7 +32,6 @@
   width: calc(50%);
 }
 
-.clear,
 .operator {
   background-color: #fc0;
   color: #333;
