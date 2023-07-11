@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import PropTypes from 'prop-types';
-import './calculator.css';
+import '../styles/calculator.css';
 import calculate from '../logic/calculate';
 
 export function Display(props) {
