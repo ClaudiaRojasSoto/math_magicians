@@ -17,11 +17,9 @@ function App() {
         <header className="App-header">
           <nav className="nav">
             <h1 className="logo">Math Magicians</h1>
-            {/* Estilo del título */}
             <ul className="nav-links">
               <li>
                 <Link to="/" className="nav-link">Home</Link>
-                {/* Estilo de los enlaces */}
               </li>
               <li>
                 <Link to="/calculator" className="nav-link">Calculator</Link>
