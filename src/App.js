@@ -5,7 +5,7 @@ import {
   Link,
   Routes,
 } from 'react-router-dom';
-import './App.css';
+import './styles/App.css';
 import Home from './components/Home';
 import Calculator from './components/Calculator';
 import Quote from './components/Quote';
@@ -15,7 +15,7 @@ function App() {
     <Router>
       <div className="App">
         <header className="App-header">
-          <nav>
+          <nav className="nav">
             <h1 className="logo">Math Magicians</h1>
             {/* Estilo del título */}
             <ul className="nav-links">
