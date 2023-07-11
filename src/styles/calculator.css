@@ -1,6 +1,6 @@
 .calculator {
   width: 400px;
-  background-color: #f0f0f0;
+  background-color: rgb(240, 240, 240);
   padding: 0;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(67, 12, 12, 0.3);
@@ -10,7 +10,7 @@
 
 .display {
   background-color: rgb(100, 56, 67);
-  color: #fff;
+  color: rgb(255, 255, 255);
   padding: 10px;
   text-align: right;
 }
@@ -28,7 +28,7 @@
   padding: 16px;
   cursor: pointer;
   width: calc(25%);
-  color: rgb(51, 29, 44)
+  color: rgb(51, 29, 44);
 }
 
 .zero {
@@ -37,7 +37,7 @@
 
 .operator {
   background-color: rgb(153, 98, 122);
-  color: #331D2C;
+  color: rgb(51, 29, 44);
 }
 
 .equal {
