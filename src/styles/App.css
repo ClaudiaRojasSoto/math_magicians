@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  background-color: rgb(200, 142, 167);
+}
+
+.App-header {
+  color: #643843;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.nav {
+  margin: 0;
+  padding: 5px 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  background-color: rgb(231, 203, 203);
+  box-shadow: 0 4px 8px rgba(67, 12, 12, 0.3);
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  font-size: 50px;
+  flex-grow: 1;
+  margin: 10px 70px;
+}
+
+.nav-links {
+  list-style-type: none;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-right: 70px;
+}
+
+.nav-link {
+  margin-left: 20px;
+  text-decoration: none;
+  color: rgb(100, 56, 67);
+  font-size: 20px;
+}

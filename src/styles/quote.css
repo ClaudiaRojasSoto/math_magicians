@@ -1,0 +1,16 @@
+.loading {
+  color: rgb(100, 56, 67);
+  text-align: center;
+  justify-content: center;
+  margin: 200px 70px 20px 70px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.quote {
+  color: rgb(100, 56, 67);
+  text-align: center;
+  justify-content: center;
+  margin: 200px 70px 20px 70px;
+  font-size: 30px;
+}

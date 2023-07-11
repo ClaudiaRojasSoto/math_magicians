@@ -1,0 +1,14 @@
+.title {
+  color: rgb(100, 56, 67);
+  justify-content: center;
+  text-align: center;
+  font-size: 40px;
+  margin: 0 70px 0 70px;
+}
+
+.Paragraph-content {
+  font-size: 20px;
+  text-align: justify;
+  margin: 20px 70px 30px 70px;
+  color: rgb(100, 56, 67);
+}

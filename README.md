@@ -160,8 +160,6 @@
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-
--   **Send and receive data from API**
 -   **Testing**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
