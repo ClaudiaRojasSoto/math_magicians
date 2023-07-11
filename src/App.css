@@ -1,15 +1,28 @@
-.App {
-  text-align: center;
-  margin-bottom: 20px;
-}
+/* App.css */
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color: #fff;
+  color: #000;
   display: flex;
-  flex-direction: column;
+  justify-content: space-between;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  flex-wrap: wrap;
+}
+
+.logo {
+  display: flex;
+  margin: 0;
+}
+
+.nav-links {
+  list-style-type: none;
+  display: flex;
+}
+
+.nav-link {
+  margin-right: 10px;
+  text-decoration: none;
+  color: #000;
+  display: flex;
+  justify-content: space-between;
 }
